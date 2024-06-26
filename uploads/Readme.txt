@@ -1,0 +1,1 @@
+Files will be uploaded here locally and then on the imgbb server!
